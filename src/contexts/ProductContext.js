@@ -1,5 +1,5 @@
 import React, { createContext } from 'react';
-import "../data.js";
+// import "../data.js";
 
 const ProductContext = createContext();
 
